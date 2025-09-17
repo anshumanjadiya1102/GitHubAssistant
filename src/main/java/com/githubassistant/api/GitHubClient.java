@@ -1,4 +1,4 @@
-package com.githubassistant.api;
+package com.githubassistant.api; 
 
 import com.githubassistant.models.Repository;
 import com.google.gson.JsonObject;
