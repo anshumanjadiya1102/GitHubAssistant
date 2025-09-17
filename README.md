@@ -25,8 +25,8 @@ JavaHelperApp/
 │   │    │    │ └─ KnowledgeBase.java
 │   │    │    └─ utils/
 │   │    │    └─ ConsoleUtils.java
-│ │ └─ resources/
-│ │ └─ knowledge.json
+│   │    └─ resources/
+│   │    └─ knowledge.json
 └─ src/test/
      └─ java/
          └─ com/javahelper/
